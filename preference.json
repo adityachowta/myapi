@@ -1,0 +1,36 @@
+{
+    "id": "Chowtaav",
+    "perspectives": [
+        {
+            "name": "Expense Details-CORPORATE RISK & BROKING-EAST DIVISION ALTERNATE CRB",
+            "proformas": [
+                {
+                    "name": "Professional Services",
+                    "visiblity": "true"
+                },
+                {
+                    "name": "Travel & Entertainment",
+                    "visiblity": "false"
+                }
+            ]
+        },
+        {
+            "name": "Geo Leader-TOTAL OPERATING-All Regions",
+            "proformas": [
+                {
+                    "name": "Software & Equipment",
+                    "visiblity": "false"
+                },
+                {
+                    "name": "Professional Dues",
+                    "visiblity": "true"
+                }
+            ]
+        }
+    ],
+    "_rid": "Xec8AMDK7jABAAAAAAAAAA==",
+    "_self": "dbs/Xec8AA==/colls/Xec8AMDK7jA=/docs/Xec8AMDK7jABAAAAAAAAAA==/",
+    "_etag": "\"cc0279ac-0000-0200-0000-60abf1940000\"",
+    "_attachments": "attachments/",
+    "_ts": 1621881236
+}
